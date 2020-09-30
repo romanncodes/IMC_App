@@ -14,7 +14,6 @@
         android:text="App que calcula tu imc"
         android:textSize="30dp"
     />
-
     <Button
         android:text="HI"
         android:layout_width="wrap_content"
